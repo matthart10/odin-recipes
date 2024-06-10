@@ -1,0 +1,35 @@
+* {
+    font-family: Arial, Verdana, sans-serif;
+}
+
+.intro {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+#list {
+    text-align: center;
+}
+
+.food {
+    font-size: 26px;
+}
+#za {
+    color: rgb(255, 102, 0);
+}
+
+#ghetti {
+    color: red;
+}
+#cakes {
+    color: brown;
+}
+
+img {
+    height: auto;
+    width: 350px;
+}
+#start {
+    background-color: aquamarine;
+}
